@@ -1,1 +1,1 @@
-# smilesafe.io
+# SmileSafe.io
